@@ -16,6 +16,13 @@ export default function Navigation() {
                 <li>
                     <Link href="/contact" className="hover:text-blue-400">Kontakt</Link>
                 </li>
+                <li>
+                    <Link href="/services" className="hover:text-blue-400">Tjänster</Link>
+                </li>
+                <li>
+                    <Link href="/team" className="hover:text-blue-400">Team</Link>
+                </li>
+
             </ul>
         </nav>
     )
